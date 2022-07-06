@@ -1,1 +1,2 @@
-# tig
+# TIG
+my vimrc file.
