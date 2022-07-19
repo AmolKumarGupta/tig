@@ -80,6 +80,5 @@ inoremap <C-a> <Esc>ggvG$
 
 "to start suggestion
 inoremap <C-u> <C-x><C-o>
-
 inoremap <C-t> <Esc>:NERDTreeToggle<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
